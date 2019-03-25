@@ -1,6 +1,6 @@
-#ifndef _function_h
-#define _function_h
+#ifndef _PrintASCII_h
+#define _PrintASCII_h
 
-void function(char string[]);
+void PrintASCII(char string[]);
 
 #endif
